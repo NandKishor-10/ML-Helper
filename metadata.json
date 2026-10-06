@@ -1,0 +1,6 @@
+{
+  "name": "MLViewer",
+  "description": "Fast and clean XML and HTML viewer and editor with syntax highlighting, search, and reader mode",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
